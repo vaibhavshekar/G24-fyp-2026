@@ -27,6 +27,15 @@ This project forecasts multi-temporal satellite imagery and provides explainabil
 - Primary data lives at `Dataset/data` (junction to `D:\Amrita\Final Year Project\fyp-2026-ui\data`).
 - A snapshot archive is available at `Dataset/data.zip`.
 
+**Documentation**
+All project documents are available in the `Documentation/` folder.
+
+- [Project Report](Documentation/G24_Documentation_Phase2_Final.pdf)
+- [Project Presentation (PPT)](Documentation/G24_P2_R3.pptx)
+- [Similarity Report](Documentation/UG G24 ver1.pdf)
+- [AI Usage Report](Documentation/UG G24 ver1 (1).pdf)
+- Project Demo Video – [Watch on Google Drive]([https://drive.google.com/your-video-link](https://drive.google.com/file/d/1tUIiVTwgjYO3HgDUeCbr4h48QsJIfkFu/view?usp=sharing))
+
 **Preprocessing**
 The preprocessing notebook covers:
 - Reflectance conversion and normalization
